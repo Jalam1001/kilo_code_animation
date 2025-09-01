@@ -55,9 +55,6 @@ You can easily modify:
 - **Frequencies**: Modify the `calmingFrequencies` object
 - **Animation speed**: Adjust time increments
 
-## 🌐 Live Demo
-
-Visit the GitHub Pages deployment: [https://jalam1001.github.io/kilo_code_animation/](https://jalam1001.github.io/kilo_code_animation/)
 
 ## 📝 License
 
